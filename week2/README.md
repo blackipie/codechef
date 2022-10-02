@@ -6,43 +6,43 @@ ______________
 
 PROBLEMS :
 
-1.https://www.codechef.com/submit/FINDSHOES
+11.https://www.codechef.com/submit/FLOW011
 
 Solution: https://github.com/blackipie/codechef/blob/main/Week%201/1.cpp
 
-2.https://www.codechef.com/submit/LASTLEVELS
+12.https://www.codechef.com/submit/SUPCHEF
 
 Solution: https://github.com/blackipie/codechef/blob/main/Week%201/2.cpp
 
-3.https://www.codechef.com/submit/CHESSDIST
+13.https://www.codechef.com/submit/DEVSPORTS
 
 Solution: https://github.com/blackipie/codechef/blob/main/Week%201/3.cpp
 
-4.https://www.codechef.com/submit/DECINC
+14.https://www.codechef.com/submit/CARCHOICE
 
 Solution: https://github.com/blackipie/codechef/blob/main/Week%201/4.cpp
 
-5.https://www.codechef.com/submit/PASSORFAIL
+15.https://www.codechef.com/submit/ODDSEVENS
 
 Solution: https://github.com/blackipie/codechef/blob/main/Week%201/5.cpp
 
-6.https://www.codechef.com/submit/DIFFSUM
+16.https://www.codechef.com/submit/DRUNKALK
 
 Solution: https://github.com/blackipie/codechef/blob/main/Week%201/6.cpp
 
-7.https://www.codechef.com/submit/FLOW018
+17.https://www.codechef.com/submit/CCISLAND
 
 Solution: https://github.com/blackipie/codechef/blob/main/Week%201/7.cpp
 
-8.https://www.codechef.com/submit/JGAMES
+18.https://www.codechef.com/submit/FACEDIR
 
 Solution: https://github.com/blackipie/codechef/blob/main/Week%201/8.cpp
 
-9.https://www.codechef.com/submit/RCBPLAY
+19.https://www.codechef.com/submit/CARRYGOLD
 
 Solution: https://github.com/blackipie/codechef/blob/main/Week%201/9.cpp
 
-10.https://www.codechef.com/submit/LAZYCHF
+20.https://www.codechef.com/submit/CHEFVACATION
 
 Solution: https://github.com/blackipie/codechef/blob/main/Week%201/10.cpp
 
