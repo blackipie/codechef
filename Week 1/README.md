@@ -1,8 +1,10 @@
 SOLVED BY SHAFIN
 ----------------------------------
-_____________
+My website : https://shafin.vercel.app
+--------------------------------------
+________________
 LANGUAGE: C++ 17
-______________
+_________________
 
 PROBLEMS :
 
@@ -47,5 +49,3 @@ Solution: https://github.com/blackipie/codechef/blob/main/Week%201/9.cpp
 Solution: https://github.com/blackipie/codechef/blob/main/Week%201/10.cpp
 
 Happy Coding 😊
-
-My website : https://shafin.vercel.app

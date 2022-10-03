@@ -1,5 +1,7 @@
 SOLVED BY SHAFIN
 ----------------------------------
+My website : https://shafin.vercel.app
+---------------------------------------
 _____________
 LANGUAGE: C++ 17
 ______________
@@ -44,8 +46,7 @@ Solution: https://github.com/blackipie/codechef/blob/main/week2/19.cpp
 
 20.https://www.codechef.com/submit/CHEFVACATION
 
-Solution: hhttps://github.com/blackipie/codechef/blob/main/week2/20.cpp
+Solution: https://github.com/blackipie/codechef/blob/main/week2/20.cpp
 
 Happy Coding 😊
 
-My website : https://shafin.vercel.app
